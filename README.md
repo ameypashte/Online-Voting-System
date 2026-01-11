@@ -1,3 +1,15 @@
+#INSTALLATION MANUAL FOR ONLINE VOTING SYSTEM:
+Follow following steps to access online voting system on your system
+Step 1- Download project zip file or clone the project on your system.
+Step 2- Extract downloaded zip file.
+Step 3- Turn on Apache and MySQL on XAMPP server (install and configure
+not available).
+Step 4- Open browser and type following-
+ For User- http://localhost/votesystem/
+ For Admin- http://localhost/votesystem/admin/
+Step 5- After opening above links, user or admin can access the online voting
+system.
+
 # online voting system
 
 Online Voting System is a web-based system that facilitates the running of elections and 
